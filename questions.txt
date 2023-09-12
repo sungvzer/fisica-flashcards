@@ -1,9 +1,11 @@
+# Unità di misura
 Quali sono le 7 unità fondamentali del Sistema Internazionale (S.I.)?
 Quali sono le caratteristiche del S.I.?
 Qual è la definizione di lunghezza/metro?
 Qual è la definizione di tempo/secondo?
 Qual è la definizione di massa/chilogrammo?
 Qual è la differenza tra peso e massa?
+# Cinematica
 Di cosa si occupa la cinematica?
 Definizione della velocità vettoriale media.
 Definizione della velocità scalare media.
@@ -23,6 +25,7 @@ Qual è l'equazione della gittata orizzontale di un proiettile?
 Descrivi il moto circolare uniforme.
 Come si calcola il periodo di rivoluzione durante il moto rettilineo uniforme?
 Qual è la relazione tra velocità e accelerazione osservate da due sistemi di riferimento?
+# Forze e moto
 Cos'è una forza?
 Cosa afferma la prima legge di Newton?
 Cosa afferma la seconda legge di Newton?
@@ -34,6 +37,7 @@ Cos'è la forza di resistenza aerodinamica?
 Come si calcola la forza di resistenza aerodinamica?
 Come si deriva la velocità di regime di un corpo in caduta?
 Come si calcola la forza centripeta di un corpo in moto circolare uniforme?
+# Energia
 Cos'è l'energia?
 Cosa afferma il principio di conservazione dell'energia?
 Come si misura l'energia?
@@ -56,9 +60,11 @@ Come si definisce il lavoro svolto da una forza esterna su un sistema?
 Cos'è il centro di massa? Come si calcola?
 Cos'è la quantità di moto di una particella?
 Quale legge di Newton si può riscrivere utilizzando la quantità di moto?
+# Urti
 Come varia la quantità di moto di un corpo tramite un impulso?
 Dimostra la formula della forza media di una serie di urti.
 Come viene definito un urto elastico e anelastico?
+# Termodinamica
 Come si definisce la scala Kelvin?
 Cosa afferma il principio zero della termodinamica?
 Cos'è il punto triplo dell'acqua?
@@ -71,7 +77,7 @@ Cos'è il calore latente di un corpo?
 Cosa si intende per "processo termodinamico"?
 Quando è che il calore è positivo?
 Come si deriva il lavoro svolto durante un processo termodinamico?
-Cos'è l'energia interna di un sistema?
+Da cosa è data l'energia interna di un sistema durante un processo termodinamico?
 Quali sono i tre tipi di trasmissione del calore?
 Come si calcola il calore per unità di tempo trasmesso durante la conduzione?
 Come si calcola il calore trasmesso per unità di tempo durante l'irraggiamento?
@@ -94,6 +100,7 @@ Cos'è una macchina termica?
 Descrivi una macchina di Carnot.
 Come si calcola la variazione entropica di una macchina di Carnot?
 Come si calcola il rendimento di una macchina termica?
+# Gravitazione
 Come si calcola la forza attrattiva gravitazionale tra due corpi?
 Come si approssimano i corpi estesi per quanto riguarda l'attrazione gravitazionale?
 Come si calcola la sovrapposizione delle forze di attrazione gravitazionale?
@@ -102,6 +109,7 @@ Come si calcola l'energia potenziale gravitazionale?
 Come si calcola la velocità di fuga di un proiettile?
 Cosa affermano le tre leggi di Keplero?
 A quanto equivale l'energia meccanica totale in orbita?
+# Fluidodinamica
 Cos'è un fluido?
 Come si derivano massa volumica e pressione di un fluido?
 Come si calcola la pressione di un fluido a profondità h?

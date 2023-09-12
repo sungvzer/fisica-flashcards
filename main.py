@@ -4,7 +4,8 @@ from hashlib import sha256
 
 with open('./questions.txt', 'r') as file:
     lines = file.readlines()
-    lines = [line.strip() for line in lines]
+    lines = [line.strip() for line in lines if '//' not in line and '#' not in line and line.strip() != '']
+    # print(lines)
     previous_questions = []
     try:
         while True:
