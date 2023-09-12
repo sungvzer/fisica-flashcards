@@ -1,0 +1,112 @@
+Quali sono le 7 unità fondamentali del Sistema Internazionale (S.I.)?
+Quali sono le caratteristiche del S.I.?
+Qual è la definizione di lunghezza/metro?
+Qual è la definizione di tempo/secondo?
+Qual è la definizione di massa/kilogrammo?
+Qual è la differenza tra peso e massa?
+Di cosa si occupa la cinematica?
+Definizione della velocità vettoriale media.
+Definizione della velocità scalare media.
+Definizione della velocità vettoriale istantanea.
+Definizione della velocità scalare istantanea.
+Cos'è l'accelerazione di un corpo?
+Come si calcola l'accelerazione media e istantanea?
+Scrivi l'equazione base del moto rettilineo uniformemente accelerato.
+Qual è la distanza delta_x percorsa in un tempo t da un corpo in moto rettilineo uniformemente accelerato con velocità iniziale v0?
+Cos'è un vettore?
+Come si sommano due vettori?
+Utilizzando i vettori, come descriviamo la posizione di un corpo nello spazio in tre dimensioni?
+Descrivi il moto orizzontale di un proiettile.
+Descrivi il moto verticale di un proiettile.
+Qual è l'equazione della traiettoria di un proiettile?
+Qual è l'equazione della gittata orizzontale di un proiettile?
+Descrivi il moto circolare uniforme.
+Come si calcola il periodo di rivoluzione durante il moto rettilineo uniforme?
+Qual è la relazione tra velocità e accelerazione osservate da due sistemi di riferimento?
+Cos'è una forza?
+Cosa afferma la prima legge di Newton?
+Cosa afferma la seconda legge di Newton?
+Cosa afferma la terza legge di Newton?
+Quali sono i due tipi di forze di attrito?
+Come si calcola la forza di attrito statico massima?
+Come si calcola la forza di attrito dinamico?
+Cos'è la forza di resistenza aerodinamica?
+Come si calcola la forza di resistenza aerodinamica?
+Come si deriva la velocità di regime di un corpo in caduta?
+Come si calcola la forza centripeta di un corpo in moto circolare uniforme?
+Cos'è l'energia?
+Cosa afferma il principipo di conservazione dell'energia?
+Come si misura l'energia?
+Che cos'è l'energia cinetica? Come si calcola?
+Qual è la definizione di lavoro?
+Come si calcola il lavoro compiuto durante il moto?
+Dimostra la relazione tra lavoro e forza gravitazionale?
+Dimostra la relazione tra lavoro e forza elastica?
+Come si calcola il lavoro di una generica forza variabile?
+Cos'è la potenza? Come si calcola?
+Cos'e l'energia potenziale?
+Quali sono le proprietà di un sistema di forze?
+Quando è che una forza si dice conservativa?
+Dimostra la determinazione dell'energia potenziale gravitazionale.
+Dimostra la determinazione dell'energia potenziale elastica.
+Cosa afferma il principio di conservazione dell'energia meccanica?
+Quando è che un sistema si dice isolato?
+Quanti tipi di punti di equilibrio ci sono nella curva dell'energia potenziale?
+Come si definisce il lavoro svolto da una forza esterna su un sistema?
+Cos'è il centro di massa? Come si calcola?
+Cos'è la quantità di moto di una particella?
+Quale legge di Newton si può riscrivere utilizzando la quantità di moto?
+Come varia la quantità di moto di un corpo tramite un impulso?
+Dimostra la formula della forza media di una serie di urti.
+Come viene definito un urto elastico e anelastico?
+Come si definisce la scala Kelvin?
+Cosa afferma il principio zero della termodinamica?
+Cos'è il punto triplo dell'acqua?
+Come viene calcolata la dilatazione termica di un solido?
+Come viene calcolata la dilatazione termica in lunghezza?
+Cos'è il calore?
+Cos'è la capacità termica di un corpo?
+Cos'è il calore specifico di un corpo?
+Cos'è il calore latente di un corpo?
+Cosa si intende per "processo termodinamico"?
+Quando è che il calore è positivo?
+Come si deriva il lavoro svolto durante un processo termodinamico?
+Cos'è l'energia interna di un sistema?
+Quali sono i tre tipi di trasmissione del calore?
+Come si calcola il calore per unità di tempo trasmesso durante la conduzione?
+Come si calcola il calore trasmesso per unità di tempo durante l'irraggiamento?
+Qual è la definizione di mole?
+Qual è la legge dei gas ideali?
+Come vengono messe in relazione le tre costanti: gas, Avogadro, Boltzmann?
+Come si calcola il lavoro durante una trasformazione isoterma?
+Come si calcola il lavoro svolto a volume costante?
+Come si calcola il lavoro svolto a pressione costante?
+Deriva l'equazione per la velocità quadratica media di una particella di gas.
+Cos'è l'energia cinetica traslazionale di un gas?
+Cos'è il libero cammino medio di un gas?
+Cos'è la distribuzione delle velocità molecolari?
+Supponendo un gas monoatomico, comoe si calcola la sua energia interna?
+Qual è la relazione fra calore specifico molare a volume e pressione costanti?
+Cos'è la variazione di entropia di un sistema?
+Perché si dice che l'entropia è una funzione di stato di un sistema?
+Cosa afferma il secondo principio della termodinamica?
+Cos'è una macchina termica?
+Descrivi una macchina di Carnot.
+Come si calcola la variazione entropica di una macchina di Carnot?
+Come si calcola il rendimento di una macchina termica?
+Come si calcola la forza attrattiva gravitazionale tra due corpi?
+Come si approssimano i corpi estesi per quanto riguarda l'attrazione gravitazionale?
+Come si calcola la sovrapposizione delle forze di attrazione gravitazionale?
+Deriva la formula dell'accelerazione di gravità.
+Come si calcola l'energia potenziale gravitazionale?
+Come si calcola la velocità di fuga di un proiettile?
+Cosa affermano le tre leggi di Keplero?
+A quanto equivale l'energia meccanica totale in orbita?
+Cos'è un fluido?
+Come si derivano massa volumica e pressione di un fluido?
+Come si calcola la pressione di un fluido a profondità h?
+Cosa afferma il principio di Pascal?
+Cosa afferma il principio di Archimede?
+Quali sono le caratteristiche di un fluido ideale?
+Qual è l'equazione di continuità di un fluido?
+Dimostra l'equazione di Bernoulli per un fluido ideale.
