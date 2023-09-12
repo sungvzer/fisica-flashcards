@@ -2,7 +2,7 @@ Quali sono le 7 unità fondamentali del Sistema Internazionale (S.I.)?
 Quali sono le caratteristiche del S.I.?
 Qual è la definizione di lunghezza/metro?
 Qual è la definizione di tempo/secondo?
-Qual è la definizione di massa/kilogrammo?
+Qual è la definizione di massa/chilogrammo?
 Qual è la differenza tra peso e massa?
 Di cosa si occupa la cinematica?
 Definizione della velocità vettoriale media.
@@ -35,7 +35,7 @@ Come si calcola la forza di resistenza aerodinamica?
 Come si deriva la velocità di regime di un corpo in caduta?
 Come si calcola la forza centripeta di un corpo in moto circolare uniforme?
 Cos'è l'energia?
-Cosa afferma il principipo di conservazione dell'energia?
+Cosa afferma il principio di conservazione dell'energia?
 Come si misura l'energia?
 Che cos'è l'energia cinetica? Come si calcola?
 Qual è la definizione di lavoro?
@@ -85,7 +85,7 @@ Deriva l'equazione per la velocità quadratica media di una particella di gas.
 Cos'è l'energia cinetica traslazionale di un gas?
 Cos'è il libero cammino medio di un gas?
 Cos'è la distribuzione delle velocità molecolari?
-Supponendo un gas monoatomico, comoe si calcola la sua energia interna?
+Supponendo un gas monoatomico, come si calcola la sua energia interna?
 Qual è la relazione fra calore specifico molare a volume e pressione costanti?
 Cos'è la variazione di entropia di un sistema?
 Perché si dice che l'entropia è una funzione di stato di un sistema?
